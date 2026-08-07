@@ -1,5 +1,5 @@
 body {
-	background-color :#080808;
+	background-color :#000000;
 }
 .navbar {
 	background-color :#f7f7f7;
@@ -7,15 +7,15 @@ body {
 .navbar-text,
 .navbar-brand,
 .nav-link {
-	color :#e3e3e3;
+	color :#000000;
 }
 .navbar-brand:hover,
 .nav-link:hover {
-	color :#212121;
+	color :#171717;
 }
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link.show {
-    	color :#e3e3e3;
+    	color :#171717;
 }
 .navbar-toggler {
     	border : var(--bs-border-width) solid rgb(255 255 255);
@@ -40,11 +40,11 @@ body {
 }
 .footer-main {
 	background-color :#f7f7f7;
-	color :#e3e3e3;
+	color :#000000;
 }
 .footer-main a {
 	text-decoration :none;
-	color :#e3e3e3;
+	color :#000000;
 }
 
 .btn-outline-dark:hover {
