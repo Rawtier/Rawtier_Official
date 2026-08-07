@@ -46,3 +46,8 @@ body {
 	text-decoration :none;
 	color :#e3e3e3;
 }
+
+.btn-outline-dark:hover {
+	background-color: #212529;
+    color: #ffffff;
+}
