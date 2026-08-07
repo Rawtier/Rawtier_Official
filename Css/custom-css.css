@@ -1,8 +1,8 @@
 body {
-	background-color :#171717;
+	background-color :#080808;
 }
 .navbar {
-	background-color :#6b0909;
+	background-color :#f7f7f7;
 }
 .navbar-text,
 .navbar-brand,
@@ -39,7 +39,7 @@ body {
   	width: 30%;
 }
 .footer-main {
-	background-color :#6b0909;
+	background-color :#f7f7f7;
 	color :#e3e3e3;
 }
 .footer-main a {
